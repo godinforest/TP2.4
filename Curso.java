@@ -7,7 +7,7 @@ public class Curso {
     // atributos
     private List<String> estudiantes = new ArrayList<>();
 
-    // getters
+    // getters pooper
     public List<String> getEstudiantes() {
         return estudiantes;
     }
